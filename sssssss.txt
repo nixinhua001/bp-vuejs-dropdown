@@ -1,0 +1,10 @@
+ssh://tfs2018-web.winning.com.cn:22/tfs/WN_HIS/%E6%89%8B%E6%9C%AF%E7%AE%A1%E7%90%86/_git/BSP
+
+is any of:
+Is merge commit: is true
+Commit message: does not match regexp: @\sof\s@
+email to: ....
+
+root@winning-glpt:/var/lib/docker/containers/519a778ed5c4d51fdf4a43104c205c4ada156f40cbeb39b5e8cd7e2492c7dcec# 
+
+export PATH="www.winning-dev.com:8090”
